@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Divyank Khajuria
 ========================================================================================================================================
 
-Fond of WebDevelopment and Competitve Programing
+Fond of WebDevelopment and Competitve Programming
 ------------------------------------------------
 
 For the past 3 years, my enthusiasm for coding has been my driving force, propelling my continuous learning journey.
