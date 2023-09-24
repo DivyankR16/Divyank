@@ -8,7 +8,7 @@ For the past 3 years, my enthusiasm for coding has been my driving force, propel
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [divyank16khajuria@gmail.com](mailto:divyank16khajuria@gmail.com)
-* 🧠  I'm learning React js,Next js and advanced backend
+* 🧠  I'm learning React js,Next js and REST APIs
 * ⚡  I am consistently participating in codeforces contests, immersing myself in a world where algorithms and logic collide, aiming to conquer each contest like a true coding adventurer! 🌟🚀
 
 <a href="https://www.github.com/DivyankR16" target="_blank" rel="noreferrer"><img
