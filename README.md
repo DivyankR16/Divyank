@@ -13,7 +13,7 @@ For the past 3 years, my enthusiasm for coding has been my driving force, propel
 
 <a href="https://www.github.com/DivyankR16" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DivyankR16?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
-<img src="![](https://komarev.com/ghpvc/?username=DivyankR16)"></img>
+<a><img src="https://komarev.com/ghpvc/?username=DivyankR16"></img></a>
 ### Skills
 
 
