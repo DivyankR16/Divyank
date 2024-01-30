@@ -40,4 +40,4 @@ src="https://img.shields.io/github/followers/DivyankR16?logo=github&style=for-th
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/DivyankR16/CP" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DivyankR16&repo=CP&title_color=6366f1&text_color=10b981&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div>
-<div width="100%" align="center"><a href="https://github.com/DivyankR16/Defy24" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DivyankR16&repo=Defy&title_color=6366f1&text_color=10b981&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/DivyankR16/Defy24" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DivyankR16&repo=Defy24&title_color=6366f1&text_color=10b981&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div>
