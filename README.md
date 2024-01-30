@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/DivyankR16?logo=github&style=for-th
 
 ### Badges
 <p>
-  <img src="https://api.vaunt.dev/v1/github/entities/{{divyankR16}}/achievements?format=svg&limit=3" width="350" />
+  <img src="https://api.vaunt.dev/v1/github/entities/{{DivyankR16}}/achievements?format=svg&limit=3" width="350" />
 </p>
 <b>My GitHub Stats</b>
 
